@@ -150,7 +150,7 @@ padding:10px;}
     </style>
  </head>
   <body onload="generate();">
- <a  href="https://codepen.io/MoHus1"><img alt="Mohamed Initials Logo"src="https://assets.codepen.io/4633895/internal/avatars/users/default.png"></a>
+<img alt="Mohamed Initials Logo" src="https://assets.codepen.io/4633895/internal/avatars/users/default.png">
     <h1>Guess The Number</h1>
     <h2>Between 0 and 1000</h2>
    <h5 id="nomoreattempts"></h5>
