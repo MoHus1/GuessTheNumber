@@ -147,7 +147,6 @@ font-weight:bold;
 margin:7px;
 background-color:white;
 padding:10px;}
-    
     </style>
  </head>
   <body onload="generate();">
